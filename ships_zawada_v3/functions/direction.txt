@@ -1,0 +1,12 @@
+n
+N
+North
+s
+S
+South
+w
+W
+West
+e
+E
+East
